@@ -16,18 +16,6 @@ It includes data cleaning, visualization, and statistical analysis to answer que
 
 ---
 
-## 📁 Repository Structure
-
-Netflix-Data-Analysis/
-│
-├── movie data analysis.pdf # Presentation / report
-├── movies project code.pdf # Project code & explanation
-├── mymoviedb.csv # Dataset with movie details
-└── (future) notebooks/scripts # Jupyter Notebooks or Python files
-
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 - **Python 3.x**
